@@ -64,6 +64,14 @@
   },
   
   {
+    "url": "https://time.piged.repl.co/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
     "url": "https://read.learnonly.xyz/",
     "timeout": 10,
     "real_time_out": 5,
