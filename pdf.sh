@@ -6,6 +6,7 @@ sudo convert save/one.pighog.repl.co/*.png pdf/one.pighog.repl.co.pdf
 sudo convert save/alist.learnonly.xyz/*.png pdf/alist.learnonly.xyz.pdf
 sudo convert save/img.pighog.repl.co/*.png pdf/img.pighog.repl.co.pdf
 sudo convert save/news.pigp.repl.co/*.png pdf/news.pigp.repl.co.pdf
+sudo convert save/uptime.pighog.repl.co/*.png pdf/uptime.pighog.repl.co.pdf
 #magick convert合并转换文件夹中png为pdf，还没写自动获取文件夹，感觉没必要
 sudo  rm -f pdf/keep
 #在生成完pdf后删除keep文件，不然会进release，不好看。
