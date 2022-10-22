@@ -56,7 +56,7 @@
   },
   
   {
-    "url": "https://time.run-us-west2.goorm.io/status/pig/",
+    "url": "https://uptime.pighog.repl.co/",
     "timeout": 10,
     "real_time_out": 5,
     "height": 3240,
