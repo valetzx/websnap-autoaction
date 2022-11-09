@@ -1,0 +1,105 @@
+[
+  {
+    "url": "https://alist.learnonly.xyz",
+    "timeout": 15,
+    "real_time_out": 15,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://space.bilibili.com/156751467/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 3240,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://blog.learnonly.xyz/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://pighog.vercel.app/movies/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://img.pighog.repl.co/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://vercel.pighog.repl.co/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://news.pigp.repl.co/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 3240,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://uptime.pighog.repl.co/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 3240,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://time.piged.repl.co/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://read.learnonly.xyz/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 3240,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://docs.learnonly.xyz/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 3240,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://todo.learnonly.xyz/?controller=BoardViewController&action=readonly&token=71e97d2ddb675cad37b81370d3875005603813ab948119e308721ffaeb89",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://todo.learnonly.xyz/?controller=BoardViewController&action=readonly&token=7b5200d279ee0ab452d9974e7c7a6cf0538d60438000050b53ab9528b935",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  }
+]
