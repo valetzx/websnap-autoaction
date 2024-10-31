@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://alist.learnonly.xyz/",
+    "timeout": 15,
+    "real_time_out": 15,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://space.bilibili.com/156751467/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 3240,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://blog.learnonly.xyz/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://pighog.vercel.app/movies/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://img.pighog.repl.co/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://vercel.pighog.repl.co/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  }
+
+]
