@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://home.valmoj.ip-ddns.com/",
+    "timeout": 15,
+    "real_time_out": 15,
+    "height": 1080,
+    "width": 1920
+  },
+  
+  {
+    "url": "https://wxpig.netlify.app/",
+    "timeout": 15,
+    "real_time_out": 15,
+    "height": 1080,
+    "width": 1920
+  },
+
+  
+  {
+    "url": "https://space.bilibili.com/156751467/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 3240,
+    "width": 1920
+  },
+
+  {
+    "url": "https://home.valmoj.ip-ddns.com/",
+    "timeout": 20,
+    "real_time_out": 10,
+    "height": 1080,
+    "width": 1920
+  },
+    
+  
+  {
+    "url": "https://nor.pigpigeon.ip-ddns.com/@",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  },
+    
+  
+  {
+    "url": "https://wx.valetzx.ip-ddns.com/",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920
+  }
+
+]
